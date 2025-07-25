@@ -81,4 +81,4 @@ Well, luckily, there is: Android!
 
 > [Note 1] If there are multiple XREFs, it's likely that either the create function for the class has either been inlined, or there are multiple or them - RE to find out what is the case!
 
-> [Note 2] The base `init` call is not necessarily a call to the actual base class's `init` for two reasons: inlining and the code not doing that. You can figure out what is the case by comparing against Android (explained in Chapter 3)
+> [Note 2] The base `init` call is not necessarily a call to the actual base class's `init` for two reasons: inlining and the code not doing that. You can figure out what is the case by comparing against Android (explained in Chapter 4)
